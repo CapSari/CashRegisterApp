@@ -34,6 +34,9 @@ The Cash Register App is an Android application built using Kotlin, Jetpack Comp
 ### Detekt
 ![Detekt Screenshot](app/src/main/res/drawable/detekt_screenshot.png)
 
+### Cash register App APK
+- **APK**: [Apk_Link](app/src/main/res/raw/yoco_cashregister_david.apk)
+
 ## Usage
 To run the Cash Register App, follow these steps:
 1. Clone the repository to your local machine.
