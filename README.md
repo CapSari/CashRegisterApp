@@ -20,6 +20,8 @@ The Cash Register App is an Android application built using Kotlin, Jetpack Comp
 ### Add Amount Screen Recording
 - **Video**: [Add Amount](app/src/main/res/raw/add_values.mov)
 
+![Add_amount Screenshot](app/src/main/res/drawable/add_amount.png)
+
 ### Delete Amount Screen Recording
 - **Video**: [Delete Amount](app/src/main/res/raw/delete_values.mov)
 
