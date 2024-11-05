@@ -18,8 +18,9 @@ The Cash Register App is an Android application built using Kotlin, Jetpack Comp
 - **Website**: [LeakCanary](https://square.github.io/leakcanary/)
 
 ### Add Amount Screen Recording
-- app/src/main/res/raw/add_values.mov
+- **File Path**: `app/src/main/res/raw/add_values.mov`
 
 ### Delete Amount Screen Recording
-- app/src/main/res/raw/delete_values.mov
+- **File Path**: `app/src/main/res/raw/delete_values.mov`
+
 
