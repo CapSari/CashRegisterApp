@@ -17,3 +17,9 @@ The Cash Register App is an Android application built using Kotlin, Jetpack Comp
 - **Description**: A memory leak detection library for Android. It helps to identify memory leaks in your application.
 - **Website**: [LeakCanary](https://square.github.io/leakcanary/)
 
+### Add Amount Screen Recording
+- app/src/main/res/raw/add_values.mov
+
+### Delete Amount Screen Recording
+- app/src/main/res/raw/delete_values.mov
+
